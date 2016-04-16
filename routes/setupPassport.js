@@ -6,10 +6,10 @@
 var ForceDotComStrategy = require('passport-forcedotcom').Strategy;
 
 
-var CF_CLIENT_ID = '3MVG9Gmy2zmPB01qfiw6htsllaBe7PbvmT29sqnF9fzse7a7Lyo8cSAdS14z.LtRoM0a7QuHDvB.vXaU24Qki';
+var CF_CLIENT_ID = '<client id>';
 
 // Set Force.com app's clientSecret
-var CF_CLIENT_SECRET = '1393651144483113262';
+var CF_CLIENT_SECRET = '<client secret>';
 
 var CF_CALLBACK_URL = 'http://localhost/auth/salesforce/callback';
 
